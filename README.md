@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-asdsafasasdas. dfsdfdsf 
+asdsafasasdas. dfsdfdsf , dsdfsfsdfsd
 ## Purpose
 dsadsada
 Sample website with plenty of files for demosdasdasd
