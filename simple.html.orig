@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <!--Copyright Notice
+<<<<<<< HEAD
+zxczxcxzvxzv
+=======
+ thse changes are from feature branch bigtrouble
+>>>>>>> 51c4106 (fb adding some trouble to simple.html)
 -->
 <head>
-<<<<<<< HEAD
-	<title>A very respecful website</title>
-=======
-	<title>A great website</title>
->>>>>>> realwork
+	<title>fdsfsd vzczsdf</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -18,21 +19,17 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- sfsdfdsf -->
 		<p>
 <<<<<<< HEAD
-			I'm not sure what wil go here.
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Daryll 2014</p>
+			Jfdsfdsfds
 =======
-			Some interesting stuff goes here.
+			Just nothing but trouble
+>>>>>>> 51c4106 (fb adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Git Training 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
