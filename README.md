@@ -9,3 +9,5 @@ Sample website with plenty of files for demosdasdasd
 ## Description
 
 ## PLease fork this repository and then issue a pull request for review
+
+all  rights reserved.
