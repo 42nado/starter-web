@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 asdsafasasdas. dfsdfdsf , dsdfsfsdfsd
 ## Purpose
-dsadsada
+dsadsada sdasdasdasd asds
 Sample website with plenty of files for demosdasdasd
 
 ## Description
